@@ -8,8 +8,8 @@ Settings = {
     Prefix = "^3[^1Police^3] ",
     Fine = {
         Toggle = true,
-        Command = "fine", 
-        MaxValue = 1001,  MaxText = "$1000." -- Sets the maxium amount an officer can fine for.
+        Command = "fine",
+        MaxValue = 10001,  MaxText = "$10000." -- Sets the maxium amount an officer can fine for.
     },
     DiscordLogs = {
         Toggle = false,
